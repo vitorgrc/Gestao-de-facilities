@@ -2,7 +2,7 @@
 
 Análise de dados aplicada ao setor de facilities management, cruzando dados meteorológicos horários (INMET) com o histórico de pedidos de material de uma empresa que atua na região metropolitana de Porto Alegre-RS, Brasil.
 
-📄 **Leia a análise completa no Medium:** [link do artigo em português] | [link do artigo em inglês]
+📄 **Leia a análise completa no Medium:** https://medium.com/@vitor.grc89/como-o-clima-influencia-o-consumo-de-suprimentos-uma-an%C3%A1lise-de-dados-aplicada-%C3%A0-gest%C3%A3o-de-641b00a30ffb | https://medium.com/@vitor.grc89/how-weather-shapes-supply-consumption-a-data-driven-case-study-in-facilities-management-b0f786a94b32
 
 ## Contexto do negócio
 

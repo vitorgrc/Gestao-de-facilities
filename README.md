@@ -29,7 +29,7 @@ O projeto seguiu a estrutura **CRISP-DM** (Business Understanding → Data Under
 
 - **Concentração de custo**: 3 categorias (químicos, álcool e sacarias) respondem por 62% do custo total de suprimentos no período
 
-  ![Pareto de custos por categoria](imagens/pareto_categoria_en.jpg)
+  ![Pareto de custos por categoria](pareto_categoria_en.jpg)
   
 - **Tratamento de piso × temperatura**: correlação de Pearson de -0,60 — consistente com a janela de temperatura recomendada pelo fabricante do produto
 

@@ -42,10 +42,18 @@ O projeto seguiu a estrutura **CRISP-DM** (Business Understanding → Data Under
 ## Estrutura do repositório
 
 ```
-├── dados/              # Recorte anonimizado dos dados utilizados
-├── planilhas/           # Análises em Excel (Pareto, correlações, dispersão)
-├── imagens/              # Gráficos exportados
-└── README.md
+Gestao-de-facilities/
+├── README.md
+├── scripts/                       # o script de tratamento de dados
+│           
+├── dados/
+│   ├── raw/                       # arquivos como vieram do INMET, sem tratamento
+│   │    
+│   └── processed/                 # já limpos pelo script, prontos pra análise  
+│       
+├── planilhas/                     # análises com fórmulas/gráficos nativos
+|                 
+└── imagens/                       # gráficos exportados
 ```
 
 ## Limitações

@@ -62,4 +62,4 @@ O projeto seguiu a estrutura **CRISP-DM** (Business Understanding → Data Under
 
 ---
 
-*Projeto desenvolvido como parte de [seu TCC/portfólio de transição de carreira para dados]. Dúvidas ou sugestões, fique à vontade para abrir uma issue ou entrar em contato.*
+*Projeto desenvolvido como parte de [Análise estatística da influência do clima no consumo de insumos na gestão de facilities/portfólio de transição de carreira para dados]. Dúvidas ou sugestões, fique à vontade para abrir uma issue ou entrar em contato.*

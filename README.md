@@ -28,15 +28,23 @@ O projeto seguiu a estrutura **CRISP-DM** (Business Understanding → Data Under
 ## Principais achados
 
 - **Concentração de custo**: 3 categorias (químicos, álcool e sacarias) respondem por 62% do custo total de suprimentos no período
+
+  ![Pareto de custos por categoria](imagens/pareto_categoria_en.jpg)
+  
 - **Tratamento de piso × temperatura**: correlação de Pearson de -0,60 — consistente com a janela de temperatura recomendada pelo fabricante do produto
+
+  ![Diagrama de dispersão](imagens/dispersao_piso_temperatura_en.jpg)
+
 - **Evento climático extremo**: as enchentes de maio de 2024 no Rio Grande do Sul (o mês mais chuvoso já registrado na estação de referência de Porto Alegre desde 1910) coincidem com um pico relevante no consumo de EPI — evidência de que eventos extremos, não a variação sazonal comum, são o que mais move o consumo
+
+  ![Precipitação mensal](imagens/precipitacao_mensal_pt.png)
 
 ## Estrutura do repositório
 
 ```
 ├── dados/              # Recorte anonimizado dos dados utilizados
 ├── planilhas/           # Análises em Excel (Pareto, correlações, dispersão)
-├── imagens/              # Gráficos exportados
+├──![Pareto de custos por categoria (EN)] (imagens/pareto_categoria_en.jpg)
 └── README.md
 ```
 

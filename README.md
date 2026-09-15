@@ -44,7 +44,7 @@ O projeto seguiu a estrutura **CRISP-DM** (Business Understanding → Data Under
 ```
 ├── dados/              # Recorte anonimizado dos dados utilizados
 ├── planilhas/           # Análises em Excel (Pareto, correlações, dispersão)
-├──![Pareto de custos por categoria (EN)] (imagens/pareto_categoria_en.jpg)
+├── imagens/              # Gráficos exportados
 └── README.md
 ```
 
